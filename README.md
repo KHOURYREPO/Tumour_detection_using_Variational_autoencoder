@@ -9,7 +9,7 @@ This Repo contains files for the anomaly detection of brain MRI scans to detect 
   ## Dataset
 The dataset is a popular dataset from a Kaggle challenge to detect tumors in brain MRI scans. From the dataset folder are 2 sets of datasets 
 
-*NO - no tumor
+*NO - no tumor <br />
 *YES - tumor
 
 ## Tools used in the project
